@@ -1,5 +1,3 @@
-# Purkiada-2023
-
 ### Requirements
 ```
 pip install tk pillow PyPDF2 PyMuPDF requests cryptography
